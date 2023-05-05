@@ -1,0 +1,29 @@
+/* COLORS */
+
+.bg-banner {
+    background-color: rgb(199, 176, 142);
+}
+
+.bg-carttop {
+    background-color: blanchedalmond;
+}
+
+/* FONTS */
+
+.logo-font {
+    font-family: 'Pacifico', cursive;
+}
+
+.main-font {
+    font-family: 'Inconsolata', monospace;
+}
+
+/* IMAGES */
+
+.item-image {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 2em;
+}
